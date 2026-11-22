@@ -1,0 +1,14 @@
+C:\GroshIvyWallet\explorer-git\bin\Release\net9.0-windows\ExplorerGit.exe
+C:\GroshIvyWallet\explorer-git\bin\Release\net9.0-windows\ExplorerGit.deps.json
+C:\GroshIvyWallet\explorer-git\bin\Release\net9.0-windows\ExplorerGit.runtimeconfig.json
+C:\GroshIvyWallet\explorer-git\bin\Release\net9.0-windows\ExplorerGit.dll
+C:\GroshIvyWallet\explorer-git\bin\Release\net9.0-windows\ExplorerGit.pdb
+C:\GroshIvyWallet\explorer-git\obj\Release\net9.0-windows\ExplorerGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\GroshIvyWallet\explorer-git\obj\Release\net9.0-windows\ExplorerGit.AssemblyInfoInputs.cache
+C:\GroshIvyWallet\explorer-git\obj\Release\net9.0-windows\ExplorerGit.AssemblyInfo.cs
+C:\GroshIvyWallet\explorer-git\obj\Release\net9.0-windows\ExplorerGit.csproj.CoreCompileInputs.cache
+C:\GroshIvyWallet\explorer-git\obj\Release\net9.0-windows\ExplorerGit.dll
+C:\GroshIvyWallet\explorer-git\obj\Release\net9.0-windows\refint\ExplorerGit.dll
+C:\GroshIvyWallet\explorer-git\obj\Release\net9.0-windows\ExplorerGit.pdb
+C:\GroshIvyWallet\explorer-git\obj\Release\net9.0-windows\ExplorerGit.genruntimeconfig.cache
+C:\GroshIvyWallet\explorer-git\obj\Release\net9.0-windows\ref\ExplorerGit.dll

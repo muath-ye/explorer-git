@@ -1,0 +1,5 @@
+C:\Users\bymuath\AppData\Local\ExplorerGit\ExplorerGit.exe
+C:\Users\bymuath\AppData\Local\ExplorerGit\ExplorerGit.dll
+C:\Users\bymuath\AppData\Local\ExplorerGit\ExplorerGit.deps.json
+C:\Users\bymuath\AppData\Local\ExplorerGit\ExplorerGit.runtimeconfig.json
+C:\Users\bymuath\AppData\Local\ExplorerGit\ExplorerGit.pdb
