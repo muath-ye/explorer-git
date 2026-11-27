@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schema xmlns="http://schemas.microsoft.com/windows/2006/propertydescription" schemaVersion="1.0">
+  <propertyDescriptionList publisher="ExplorerGit" product="ExplorerGitColumns">
+
+    <propertyDescription name="ExplorerGit.Status" shellPKey="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}, 2" formatID="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}" propID="2">
+      <searchInfo inInvertedIndex="false" isColumn="true" columnIndexType="OnDisk" />
+      <typeInfo type="String" isInnate="true" isViewable="true" multipleValues="false" />
+      <labelInfo label="Git Status" />
+      <displayInfo defaultColumnWidth="16" displayType="String" alignment="Left" relativeDescriptionType="General" defaultSortDirection="Ascending" />
+    </propertyDescription>
+
+    <propertyDescription name="ExplorerGit.Commit" shellPKey="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}, 3" formatID="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}" propID="3">
+      <searchInfo inInvertedIndex="false" isColumn="true" columnIndexType="OnDisk" />
+      <typeInfo type="String" isInnate="true" isViewable="true" multipleValues="false" />
+      <labelInfo label="Git Commit" />
+      <displayInfo defaultColumnWidth="10" displayType="String" alignment="Left" relativeDescriptionType="General" defaultSortDirection="Ascending" />
+    </propertyDescription>
+
+    <propertyDescription name="ExplorerGit.Message" shellPKey="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}, 4" formatID="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}" propID="4">
+      <searchInfo inInvertedIndex="false" isColumn="true" columnIndexType="OnDisk" />
+      <typeInfo type="String" isInnate="true" isViewable="true" multipleValues="false" />
+      <labelInfo label="Git Message" />
+      <displayInfo defaultColumnWidth="40" displayType="String" alignment="Left" relativeDescriptionType="General" defaultSortDirection="Ascending" />
+    </propertyDescription>
+
+    <propertyDescription name="ExplorerGit.Author" shellPKey="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}, 5" formatID="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}" propID="5">
+      <searchInfo inInvertedIndex="false" isColumn="true" columnIndexType="OnDisk" />
+      <typeInfo type="String" isInnate="true" isViewable="true" multipleValues="false" />
+      <labelInfo label="Git Author" />
+      <displayInfo defaultColumnWidth="18" displayType="String" alignment="Left" relativeDescriptionType="General" defaultSortDirection="Ascending" />
+    </propertyDescription>
+
+    <propertyDescription name="ExplorerGit.Date" shellPKey="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}, 6" formatID="{5B1C7E22-9D3A-4F68-A0B4-6E2D8C1F7A93}" propID="6">
+      <searchInfo inInvertedIndex="false" isColumn="true" columnIndexType="OnDisk" />
+      <typeInfo type="String" isInnate="true" isViewable="true" multipleValues="false" />
+      <labelInfo label="Git Date" />
+      <displayInfo defaultColumnWidth="18" displayType="String" alignment="Left" relativeDescriptionType="General" defaultSortDirection="Descending" />
+    </propertyDescription>
+
+  </propertyDescriptionList>
+</schema>
